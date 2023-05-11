@@ -1,0 +1,17 @@
+{
+	"entropy": "Cock",
+	"name": "Satoshis Palace Governance NFT",
+	"symbol": "SPT",
+	"admin": null,
+	"config": {
+		"public_token_supply": true,
+		"public_owner": false,
+		"enable_sealed_metadata": false,
+		"unwrapped_metadata_is_private": false,
+		"minter_may_update_metadata": true,
+		"owner_may_update_metadata":false,
+		"enable_burn": true
+	},
+	"post_init_callback": null,
+	"royalty_info": null
+}
